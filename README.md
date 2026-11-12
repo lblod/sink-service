@@ -10,5 +10,5 @@ Add the following snippet to the services block of your `docker-compose.yml`:
 ```yml
 services:
   sink:
-    image: lblod/sink-service:1.0.0
+    image: lblod/sink-service:1.1.0
 ```
