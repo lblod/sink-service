@@ -1,3 +1,3 @@
-FROM nginx:1.15.2
+FROM nginx:1.30-trixie
 
 COPY sink.conf /etc/nginx/conf.d/default.conf
